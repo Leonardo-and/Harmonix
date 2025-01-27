@@ -20,8 +20,8 @@ A YouTube music downloader optimized with a concurrency system to prevent system
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Leonardo-and/youtube-music-downloader.git
-cd youtube-music-downloader
+git clone https://github.com/Leonardo-and/Harmonix.git
+cd Harmonix
 ```
 
 2. Install dependencies:
