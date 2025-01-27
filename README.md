@@ -39,4 +39,6 @@ npm start "<youtube-video/playlist-url>" "<output-path>"
 
 ## 📦 Main Dependencies
 
-- `ytdl-core`: For downloading YouTube videos
+- `@distube/ytdl-core`: For downloading YouTube videos
+- `@distube/ytpl`: For get YouTube playlists
+- `p-limit`: For limit concurrency
